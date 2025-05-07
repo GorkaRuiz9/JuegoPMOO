@@ -1,0 +1,28 @@
+Hola!! Bienvenido a nuestro juego. En este breve texto de aquí se explicarán las instrucciones del juego. Para empezar el juego
+se basa en el típico juego por turnos, en el que el usuario y el rival se turnan para decidir que hacer. En este caso tu
+controlarás a los héroes; que vienen siendo el espadachín, el arquero y la curandera. Y pelearás contra el Demonio de Fuego.
+Peroooo.... Cómo se juega? Bien.
+A la hora de empezar tu turno se te asignará un héroe que será el que tengas en control en ese momento. Una vez aquí tienes cuatro opciones
+las cuales se elegirán introduciendo un número por teclado:
+	1- Atacar: el héroe que estás controlando ataca al enemigo, provocando un daño que se calcula gracias a la tirada de un dado. Es decir; el
+	daño provocado será (Ataque del Héroe)*(Dado)-(Defensa del Enemigo). Si el valor obtenido en el dado es un seis, salta un golpe crítico
+	y se duplica el daño.
+	Además el espadachin y el mago pueden hacer que el enemigo contraiga un estado. El heroé tiene una probabilidad de aturdir al enemigo,
+	y el mago de paralizarlo. (Estos estados durán un único turno!!)
+	(ATENCION!! Si los heroes estan aturdidos estos no podrán atacar si seleccionas esta opción)
+	2- Cubrirse: el héroe que estas controlando se cubre, siendo el que recibe el daño del ataque enemigo y siendo este daño una cantidad
+	muy baja.
+	3- Utilizar objeto: el héroe que estas controlando utiliza un objeto de los tres a elegir: Pocion de fuerza la cual aumenta el ataque del héroe,
+	Poción de cura la cual aumenta la vida del héroe y la Poción cura estados que cura el estado del héroe. Solo se tiene una poción de cada
+	por partida, y el efecto de estas solo dura el propio turno, asi que ten cuidado cuando las utilizas.
+	Una vez utilizado el objeto se te da la opción de elegir una de estas cuatro opciones de nuevo, es decir, utilizar un objeto no gasta turno.
+	4- Cambiar personaje: se te da la opción de elegir que personaje utilizar. Al elegir a uno esté sera el asignado y se vuelve a lanzar de 
+	nuevo el turno, pero con el Héroe a cargo siendo diferente.
+	(Cada uno de los héroes tienen habilidades especiales que se activan con el paso de los turnos, el juego avisa de ello)
+Una vez acabado tu turno le toca a el Demonio de Fuego. Este atacará de manera aleatoria a uno de los tres héroes, ademas tiene probabilidad de 
+provocar una quemadura, la cual se aplica al final del turno de los héroes. Además cada x turnos utiliza habilidades especiales, asi que ten cuidado!!
+Hay que tener en cuenta que cuando un personaje está aturdido no va a poder atacar, pero cuando esta paralizado hay una probabilidad de que sí.
+Finalmente la partida acabará cuando los tres héroes estén muertos o el demonio de Fuego lo esté, y tu puntuación será la suma de la vida restante de 
+los tres héroes.
+BUENA SUERTE!!!!!
+(El juego se parará en ciertas partes donde es necesario pulsar enter para continuar! Como por ejemplo ahora para empezar el juego!)
